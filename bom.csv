@@ -1,0 +1,15 @@
+
+Component,Purpose,Quantity,Unit Price (USD),Unit Price (MYR),Total Price (USD),Total Price (MYR),Vendor,Purchase Link
+RP2040 Zero development board,"Runs synthesizer firmware and generates digital audio",1,2.83,11.89,2.83,11.89,Shopee Malaysia,https://shopee.com.my/
+PCM5102A I2S DAC module,"Converts digital audio into analogue audio",1,2.19,9.21,2.19,9.21,Shopee Malaysia,https://shopee.com.my/
+PAM8403 amplifier module,"Amplifies audio to drive a compatible speaker",1,2.13,8.95,2.13,8.95,Shopee Malaysia,https://shopee.com.my/
+8 ohm mini speaker,"Produces the synthesizer sound",1,0.46,1.95,0.46,1.95,Shopee Malaysia,https://shopee.com.my/
+0.96-inch I2C OLED display,"Displays waveform and sound settings",1,2.50,10.50,2.50,10.50,Synacorp,https://synacorp.my/v3/en/
+Tactile push-button switch,"Musical keys and control buttons",15,0.04,0.18,0.60,2.70,Shopee Malaysia,https://shopee.com.my/
+10 kOhm potentiometer,"Adjusts sound parameters",3,0.20,0.84,0.60,2.52,Synacorp,https://synacorp.my/v3/en/
+Custom two-layer PCB fabrication,"Manufactures our custom KiCad PCB",1,5.00,21.00,5.00,21.00,JLCPCB,https://jlcpcb.com/
+Resistor and capacitor assortment,"Decoupling and signal conditioning",1,1.50,6.30,1.50,6.30,LCSC,https://www.lcsc.com/
+Pin headers and connectors,"Connects modules and controls to the PCB",1,0.80,3.36,0.80,3.36,LCSC,https://www.lcsc.com/
+USB cable,"Powers the board and supports firmware upload",1,1.50,6.30,1.50,6.30,Synacorp,https://synacorp.my/v3/en/
+3D-printed enclosure,"Custom CAD enclosure, printing requested through Print Legion",1,0.00,0.00,0.00,0.00,Hack Club Print Legion,https://hackclub.com/
+Shipping allowance,"Estimated component and PCB delivery costs",1,5.00,21.00,5.00,21.00,Various suppliers,
