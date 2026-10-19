@@ -1,4 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 RP2040 Pico-compatible development board,1,Synacorp,$3.31,$3.31,https://synacorp.my/v3/en/Raspberry-Pi/3193-2379-rpi-pico-rp2040-dual-core-microcontroller-board.html?utm_source=chatgpt.com
 6 × 6 mm tactile switches,11,Shopee Malaysia,$0.07,$0.77,https://shopee.com.my/Button-Switch-Tactile-Push-6x6x5mm-6*6*5mm-4PIN-i.482535902.11217352127?extraParams=%7B%22display_model_id%22%3A100951846821%2C%22model_selection_logic%22%3A3%7D
+KY-040 rotary encoder module,2,Shopee Malaysia,$0.77,$1.54,https://shopee.com.my/360-Degrees-Rotary-Encoder-Module-For-Arduino-Brick-Sensor-Switch-Development-Board-KY-040-With-Pins-i.31554727.21921499504?extraParams=%7B%22display_model_id%22%3A117036317973%2C%22model_selection_logic%22%3A3%7D
 Estimated total shipping,1,,,$0.00,
