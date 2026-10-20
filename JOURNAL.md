@@ -16,7 +16,7 @@
 
 1. [2026-10-20 – To start off with my project, I created the github repository, drafted ideas on what I should make, and went online to find for vendors that sell the components that I need to build my audio synthesiz](#2026-10-20-to-start-off-with-my-project-i-created-the-github)
 2. [2026-10-20 – After finishing the PCB design, I realized that I forgot to put the CAD model of my screen in the KiCAD footprint library thing, and I haven't put the potentiometer in yet. I went back to KiCAD, gathe](#2026-10-20-after-finishing-the-pcb-design-i-realized-that-i-)
-3. [2026-10-20 – After finishing my audio synthesizer design, I moved on to making the firmware, and that's when I realized that the numbering for my key buttons are incorrect, with the row 3 column 2 matrix in the sc](#2026-10-20-after-finishing-my-audio-synthesizer-design-i-mov)
+3. [2026-10-20 – **Firmware coding and PCB fixed**](#2026-10-20-firmware-coding-and-pcb-fixed)
 
 ## Design
 
@@ -40,9 +40,11 @@ After finishing the PCB design, I realized that I forgot to put the CAD model of
 
 [Timelapse](https://lookout.hackclub.com/api/media/3f25937f-04b7-4c56-9961-886bb047837a/video.mp4)
 
-### 2026-10-20 – After finishing my audio synthesizer design, I moved on to making the firmware, and that's when I realized that the numbering for my key buttons are incorrect, with the row 3 column 2 matrix in the sc
+### 2026-10-20 – **Firmware coding and PCB fixed**
 
 **1.75h**
+
+**Firmware coding and PCB fixed**
 
 After finishing my audio synthesizer design, I moved on to making the firmware, and that's when I realized that the numbering for my key buttons are incorrect, with the row 3 column 2 matrix in the schematic being SW11 instead of SW10, which is quite a big problem as I duplicated those with the diodes along with them, needing to change the values of the diodes, and making changes to how the buttons are arranged on the audio synthesizer as they are changed already in the schematic, it took me a good 30 or 40 minutes working on rearranging the buttons and connecting the tracks again. In my opinion, the tracks are one of the most difficult thing to do when designing a PCB, never really liked that part, but it always turns our fantastic once you're done with it.
 
