@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-20 – To start off with my project, I created the github repository, drafted ideas on what I should make, and went online to find for vendors that sell the components that I need to build my audio synthesiz](#2026-10-20-to-start-off-with-my-project-i-created-the-github)
-2. [2026-10-20 – After finishing the PCB design, I realized that I forgot to put the CAD model of my screen in the KiCAD footprint library thing, and I haven't put the potentiometer in yet. I went back to KiCAD, gathe](#2026-10-20-after-finishing-the-pcb-design-i-realized-that-i-)
+2. [2026-10-20 – **Added a potentiometer**](#2026-10-20-added-a-potentiometer)
 3. [2026-10-20 – **Firmware coding and PCB fixed**](#2026-10-20-firmware-coding-and-pcb-fixed)
 
 ## Design
@@ -32,9 +32,11 @@ Hence, after getting my idea, I immediately went to KiCAD and started designing 
 
 [Timelapse](https://lookout.hackclub.com/api/media/466c9673-92f7-40a7-9de3-5bcb5ec476e7/video.mp4)
 
-### 2026-10-20 – After finishing the PCB design, I realized that I forgot to put the CAD model of my screen in the KiCAD footprint library thing, and I haven't put the potentiometer in yet. I went back to KiCAD, gathe
+### 2026-10-20 – **Added a potentiometer**
 
 **0.72h**
+
+**Added a potentiometer**
 
 After finishing the PCB design, I realized that I forgot to put the CAD model of my screen in the KiCAD footprint library thing, and I haven't put the potentiometer in yet. I went back to KiCAD, gathered information about the potentiometer that I'm using and then connecting the wires for that potentiometer to the RP2040 Raspberry Pi Pico microcontroller chip that I'm using for this audio synthesizer. The extra 30 minutes was not recorded as I thought that it would be a very short process (I was wrong)...
 
