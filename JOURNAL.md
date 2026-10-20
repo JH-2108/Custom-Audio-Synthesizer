@@ -14,15 +14,17 @@
 
 ## Contents
 
-1. [2026-10-20 – To start off with my project, I created the github repository, drafted ideas on what I should make, and went online to find for vendors that sell the components that I need to build my audio synthesiz](#2026-10-20-to-start-off-with-my-project-i-created-the-github)
+1. [2026-10-20 – **Designing and planning this week's project**](#2026-10-20-designing-and-planning-this-weeks-project)
 2. [2026-10-20 – **Added a potentiometer**](#2026-10-20-added-a-potentiometer)
 3. [2026-10-20 – **Firmware coding and PCB fixed**](#2026-10-20-firmware-coding-and-pcb-fixed)
 
 ## Design
 
-### 2026-10-20 – To start off with my project, I created the github repository, drafted ideas on what I should make, and went online to find for vendors that sell the components that I need to build my audio synthesiz
+### 2026-10-20 – **Designing and planning this week's project**
 
 **2.28h**
+
+**Designing and planning this week's project**
 
 To start off with my project, I created the github repository, drafted ideas on what I should make, and went online to find for vendors that sell the components that I need to build my audio synthesizer.
 
