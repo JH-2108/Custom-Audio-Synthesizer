@@ -10,14 +10,14 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 6.53h | 4 |
+| Week 3 | Tier 1 | 7.28h | 4 |
 
 ## Contents
 
 1. [2026-10-20 – **Designing and planning this week's project**](#2026-10-20-designing-and-planning-this-weeks-project)
 2. [2026-10-20 – **Added a potentiometer**](#2026-10-20-added-a-potentiometer)
 3. [2026-10-20 – **Firmware coding and PCB fixed**](#2026-10-20-firmware-coding-and-pcb-fixed)
-4. [2026-10-20 – Work session](#2026-10-20-work-session)
+4. [2026-10-20 – **Audio synthesizer brain enclosure designed**](#2026-10-20-audio-synthesizer-brain-enclosure-designed)
 
 ## Design
 
@@ -61,8 +61,12 @@ But obviously I can't spend a whole hour and 3 quarters just redesigning the ent
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/641a82168edad4009e278467cc7c9e9504872d28c29348cc8053fdc99f3e296a.png)
 
-### 2026-10-20 – Work session
+### 2026-10-20 – **Audio synthesizer brain enclosure designed**
 
-**1.78h**
+**2.53h**
+
+**Audio synthesizer brain enclosure designed**
+
+In this part I designed the enclosure for the audio synthesizer, mainly the part where the microcontroller, sound speaker, the linear potentiometer, the 2 rotary encoders, and the screen sits. This part of the enclosure is the non moving part, which ensures that all the main electrical components will work, also acting as the main brain and display of the entire audio synthesizer. In the next part, I would be designing the keys, allowing the users to play the synthesizer.
 
 [Timelapse](https://lookout.hackclub.com/api/media/301bfdd9-815e-4894-858b-e90b264ac57a/video.mp4)
