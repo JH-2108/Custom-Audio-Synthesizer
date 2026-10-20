@@ -10,16 +10,22 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 1.28h | 1 |
+| Week 3 | Tier 1 | 2.28h | 1 |
 
 ## Contents
 
-1. [2026-10-20 – Work session](#2026-10-20-work-session)
+1. [2026-10-20 – To start off with my project, I created the github repository, drafted ideas on what I should make, and went online to find for vendors that sell the components that I need to build my audio synthesiz](#2026-10-20-to-start-off-with-my-project-i-created-the-github)
 
 ## Design
 
-### 2026-10-20 – Work session
+### 2026-10-20 – To start off with my project, I created the github repository, drafted ideas on what I should make, and went online to find for vendors that sell the components that I need to build my audio synthesiz
 
-**1.28h**
+**2.28h**
+
+To start off with my project, I created the github repository, drafted ideas on what I should make, and went online to find for vendors that sell the components that I need to build my audio synthesizer.
+
+I landed on the idea to create an audio synthesizer because I thought that we had to create something like a synth, until it changed to an instrument week. After doing research online on what a synth is and how it works, I decided that creating my own would seem like a really cool project and I can definitely use it to play some music when I am bored or have nothing else better to do, a replacement for doomscrolling I suppose. I drew a few sketches for my audio synthesizer, I wanted it to be able to play different instruments with the use of just 8 keys ranging from C, D, E, F, G, A, B and C, which are the keys for an octave starting from the middle C. My synthesizer would have a potentiometer to change the volume of playing, 2 rotary encoders to change the tone of the instrument that I am using, 3 buttons, one for changing the instrument, one for going one octave down and another for going one octave up, and one screen to show the volume, tone, which part of the  piano I'm playing and the type of instrument I'm currently using.
+
+Hence, after getting my idea, I immediately went to KiCAD and started designing the schematics and PCB, I found a github repository that contains the footprint and symbol to the SSD1306 0.96 inch OLED screen, making it perfect for me to identify the dimensions of the screen when I design the CAD enclosure. Completing my PCB design.
 
 [Timelapse](https://lookout.hackclub.com/api/media/466c9673-92f7-40a7-9de3-5bcb5ec476e7/video.mp4)
