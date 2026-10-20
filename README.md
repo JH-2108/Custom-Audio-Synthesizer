@@ -36,12 +36,12 @@ Planned sound modes include square-wave tones, alternative synthesized waveforms
 
 **PCB design** 
 
-<img width="767" height="356" alt="image" src="https://github.com/user-attachments/assets/27197d93-99ba-4e63-909e-90389abe8beb" />
+<img width="1165" height="531" alt="image" src="https://github.com/user-attachments/assets/ee964aa8-59f9-42da-9ed6-0ab58d28c0f3" />
 
 
 **Schematics** 
 
-<img width="680" height="522" alt="image" src="https://github.com/user-attachments/assets/e5316278-2be1-4165-950a-26016578eaee" />
+<img width="842" height="637" alt="image" src="https://github.com/user-attachments/assets/e3e452a4-63f5-4e95-b07d-c0a1a84602ad" />
 
 **3d rendered PCB** 
 
