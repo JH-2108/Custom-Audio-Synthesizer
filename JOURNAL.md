@@ -67,6 +67,6 @@ But obviously I can't spend a whole hour and 3 quarters just redesigning the ent
 
 **Audio synthesizer brain enclosure designed**
 
-In this part I designed the enclosure for the audio synthesizer, mainly the part where the microcontroller, sound speaker, the linear potentiometer, the 2 rotary encoders, and the screen sits. This part of the enclosure is the non moving part, which ensures that all the main electrical components will work, also acting as the main brain and display of the entire audio synthesizer. In the next part, I would be designing the keys, allowing the users to play the synthesizer.
+In this part I designed the enclosure for the audio synthesizer, mainly the part where the microcontroller, sound speaker, the linear potentiometer, the 2 rotary encoders, and the screen sits. This part of the enclosure is the non moving part, which ensures that all the main electrical components will work, also acting as the main brain and display of the entire audio synthesizer. In the next part, I would be designing the keys, allowing the users to play the synthesizer. The extra time was used to download the different parts online and a short part of the designing that I forgot to record.
 
 [Timelapse](https://lookout.hackclub.com/api/media/301bfdd9-815e-4894-858b-e90b264ac57a/video.mp4)
