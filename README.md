@@ -50,7 +50,7 @@ Planned sound modes include square-wave tones, alternative synthesized waveforms
 
 **CAD model version** 
 
-<img width="1230" height="672" alt="image" src="https://github.com/user-attachments/assets/353fc00c-71d2-4659-80dd-4c0e5eb2532e" />
+<img width="1003" height="507" alt="image" src="https://github.com/user-attachments/assets/3d9fb028-069a-4cb1-b68d-348371d10889" />
 
 
 
