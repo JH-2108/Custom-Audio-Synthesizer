@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 9.55h | 5 |
+| Week 3 | Tier 1 | 10.05h | 5 |
 
 ## Contents
 
@@ -74,7 +74,7 @@ In this part I designed the enclosure for the audio synthesizer, mainly the part
 
 ### 2026-10-21 – **Completion of the entire audio synthesizer**
 
-**2.27h**
+**2.77h**
 
 **Completion of the entire audio synthesizer**
 
