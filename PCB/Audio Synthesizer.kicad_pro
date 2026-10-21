@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "C:/Users/Lenovo/Documents/KiCad/10.0/projects/Audio Synthesizer/Gerbers/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Audio Synthesizer.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
